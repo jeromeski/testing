@@ -1,7 +1,7 @@
 import React from 'react';
 
 const CommentBox = () => {
-  return <div>I am comment box</div>;
+  return <div>Comment Box</div>;
 };
 
 export default CommentBox;
